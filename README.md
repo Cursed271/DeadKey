@@ -78,7 +78,7 @@ Your feedback helps improve DeadKey! Contributions and PRs are always welcome. ð
 
 ## ðŸ“œ License - CURSEDSEC OWNERSHIP EDICT
 
-GlassGuard is licensed under the **COE or CursedSec Ownership Edict License**.
+DeadKey is licensed under the **COE or CursedSec Ownership Edict License**.
 
 **This software is proprietary intellectual property owned exclusively by CursedSec.**
 
