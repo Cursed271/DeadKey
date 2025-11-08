@@ -76,6 +76,14 @@ Your feedback helps improve DeadKey! Contributions and PRs are always welcome. �
 
 - **Steven Pereira (aka Cursed)** - Creator & Maintainer  
 
-## 📜 License
+## 📜 License - CURSEDSEC OWNERSHIP EDICT
 
-DeadKey is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+GlassGuard is licensed under the **COE or CursedSec Ownership Edict License**.
+
+**This software is proprietary intellectual property owned exclusively by CursedSec.**
+
+Unauthorized redistribution, modification, and re-uploading to any other repository (public or private) are strictly forbidden and constitute a direct violation of the **CursedSec Ownership Edict (COE)**.
+
+**Consider this a warning: I track every copy. Get your own ideas, you lazy little shits.**
+
+Violators will face immediate legal action and DMCA takedown requests. All development must be conducted via approved Pull Requests on this official repository.
